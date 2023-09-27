@@ -311,6 +311,7 @@ footer img {
     }
 
     nav {
+        width: 550px;
         background-color:#9332a8;
         padding: 12px;
         display: flex;
@@ -528,7 +529,7 @@ footer img {
     display: flex;
     color: white;
     background-color: #9332a8;
-    width: 100%;
+    width: 550px;
     justify-content: space-between;
     align-items: center;
     text-decoration: none;
@@ -540,6 +541,7 @@ footer img {
 }
 
 footer{
+    width: 550px;
     display: flex;
     justify-content: space-between;
     align-items: center;
