@@ -26,4 +26,4 @@ const bio = document.querySelector('.bio-box');
 bio.style.color = 'white';
 
 const footer = document.querySelector('footer');
-bio.style.backgroundColor = '#2c2c33';
+footer.style.backgroundColor = '#2c2c33';
